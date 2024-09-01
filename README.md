@@ -1,3 +1,28 @@
 ## Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=D3LE0N&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+I'm from Guatemala, I love write code, coffee and support people.
+
+
+## My favorites languages are
+
+* C#
+* Dart
+* Java
+* Kotlin
+
+## My favorites frameworks are
+
+* .Net framework
+* .Net
+* Flutter
+* Django
+
+## My hobbies are 🥱
+
+* Watch movies 🍿
+* Read books 📔
+* Talking to people 🫂
+* Start a business 🧑🏼‍💼
+
+
+### I am currently working on my own logistics and transportation system.
